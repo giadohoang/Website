@@ -639,7 +639,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .countdown-timer .heading-count {
-  padding: 10px 68px;
+  /* padding: 10px 68px; */
   text-align: center;
 }
 
